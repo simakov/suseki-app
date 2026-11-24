@@ -1,17 +1,17 @@
 ---
-title: Privacy policy — Shopping List
+title: Privacy policy — BTW
 lang: en
 ---
 
-# Shopping List privacy policy
+# BTW privacy policy
 
 Effective November 24, 2026 · [Русская версия](../)
 
-Shopping List is a shared family shopping list. The app has no server and no accounts of its own: what you enter is stored on your phone and, if you turn on sync, on your own Synology NAS. The developer does not receive, collect or store your data.
+BTW — Buy The Way (called «Сусеки» in the Russian interface) is a shared family shopping list. The app has no server and no accounts of its own: what you enter is stored on your phone and, if you turn on sync, on your own Synology NAS. The developer does not receive, collect or store your data.
 
 ## Which versions this policy covers
 
-This policy covers every version of the Shopping List app (Android package `org.koda.shopping`), however you installed it:
+This policy covers every version of the BTW / «Сусеки» app (Android package `org.koda.shopping`), however you installed it:
 
 - **RuStore** — installed from the RuStore app store;
 - **GitHub** — the APK file from the project's GitHub releases page;
